@@ -6,5 +6,8 @@ NeuroStartUp — динамически развивающийся старта�
 
 Чтобы получить копию проекта, выполните:
 
-git clone https://github.com/ваш-ник/neurostartup.git
+git clone https://github.com/petrovadar/neurostartup.git
 
+## Новый текст для главной страницы
+
+NeuroStartUp помогает компаниям быстрее находить нужную информацию с помощью технологий искусственного интеллекта.
